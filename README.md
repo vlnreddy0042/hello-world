@@ -1,3 +1,3 @@
 # hello-world
 This is Narasimha
-Just for Practice
+This is just for Practice
